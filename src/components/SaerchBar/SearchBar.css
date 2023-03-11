@@ -1,0 +1,10 @@
+.search_bar{
+    border: none;
+    outline: none;
+    width: 350px;
+}
+@media screen and (max-width: 600px){
+    .search_bar{
+        width: 200px;
+    }    
+}
